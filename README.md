@@ -124,7 +124,7 @@ Click Add Features.
 
 </p>
 <p>
-Check Active Directory Domain Servicesand click Next.
+Check Active Directory Domain Services and click Next.
 </p>
 <br />
 
@@ -224,7 +224,7 @@ Left checked boxes as is and created a password. Click next.
 
 </p>
 <p>
-Uncheck CreateDNS Delegation and click next.
+Uncheck Create DNS Delegation and click next.
 </p>
 <br />
 
@@ -294,7 +294,7 @@ The sever should restart automatically.
 
 </p>
 <p>
-Login using mydomain.com\labuser tto access the remote server as a domain.
+Login using mydomain.com\labuser to access the remote server as a domain.
 </p>
 <br />
 
@@ -485,7 +485,7 @@ Sign out.
 
 </p>
 <p>
-Go back to Azure and under virtual machines copy the clien-1 public ID address and paste it in Remote Desktop and click connect.
+Go back to Azure and under virtual machines copy the client-1 public IP address and paste it in Remote Desktop and click connect.
 </p>
 <br />
 
@@ -645,7 +645,7 @@ Right-click on mydomain.com and click refresh.
 
 </p>
 <p>
-Back in Azure  select both virtual machines, click on the three dots and select Stop.
+Back in Azure select both virtual machines, click on the three dots and select Stop.
 </p>
 <br />
 
